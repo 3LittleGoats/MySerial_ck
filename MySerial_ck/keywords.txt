@@ -1,0 +1,9 @@
+## Classes
+MySerial_ck	KEYWORD1
+## Functions
+begin_t	KEYWORD2
+transmit	KEYWORD2
+begin_r	KEYWORD2
+# 'signal' is already an Arduino keyword
+# 'listen' is already an Arduino keyword
+receive	KEYWORD2
